@@ -19,3 +19,7 @@ mkdir gitsample
 git init
 touch sample
 git add sample
+git add .
+ git commit -m "first commit"
+git log
+touch sample2.text
